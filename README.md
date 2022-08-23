@@ -1,4 +1,4 @@
-# Login Binance Dark Mode
+# Login Binance Dark Mode (HTML+CSS)
 
 Projeto de estudo de responsividade. Criar uma página onde na versão desktop você tem a visão dividida da tela e na versão responsiva apenas o formulário fica visível.
 
